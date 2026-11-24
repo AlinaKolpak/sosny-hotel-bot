@@ -1,0 +1,7 @@
+[project]
+name = "hotel-learning-bot"
+version = "0.1.0"
+description = "Local Python hotel booking learning project"
+requires-python = ">=3.12"
+dependencies = []
+
